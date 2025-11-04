@@ -3,6 +3,7 @@ layout: post
 title: "Hello World / 您好世界"
 date: 2025-11-03 21:20:00 +0800
 categories: [Blog]
+image: /assets/images/hello_world.jpg
 ---
 > 這是一切的開始。
 歡迎來到我的個人部落格。這是我記錄想法、經歷和發現之旅的第一步。
