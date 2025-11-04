@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="{{ '/assets/css/monokai.css' | relative_url }}">
 <div class="container mx-auto">
-  <div id="post" class="prose md:prose-lg dark:prose-invert prose-img:rounded-lg max-w-[75ch] mx-auto pb-10 pt-20 lg:pt-[90px] lg:pb-20">
+  <div id="post" class="prose md:prose-lg dark:prose-invert prose-img:rounded-lg max-w-[75ch] mx-auto pb-10 pt-20 lg:pt-[90px] lg:pb-20 [&_p]:leading-relaxed [&_li]:leading-relaxed [&>*+*]:mt-4">
     <div class="pb-4" data-motion="fadeInRight">
       <a href="{{site.url}}/category/{{page.categories[0] | replace: ' ', '-' | downcase}}"
         class="no-underline font-mulish text-sm hover:underline text-neutral-700 dark:text-neutral-300">

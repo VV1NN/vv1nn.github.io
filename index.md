@@ -17,7 +17,7 @@ permalink: /
 
 Hi! I'm Win, but you might know me as **VV1NN** from CTF competitions.
 
-I'm currently a graduate student in the Cybersecurity program at **National Taipei University of Technology (NTUT)** (國立臺北科技大學資安學位學程).
+I'm currently a graduate student in the Cybersecurity program at **National Taipei University of Technology, Taipei Tech**.
 
 This is my personal space where I share my projects, CTF writeups, security research, life moments, and whatever catches my interest. Feel free to explore and enjoy!
 
