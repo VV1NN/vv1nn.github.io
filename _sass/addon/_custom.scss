@@ -1,0 +1,18 @@
+/* Center images inside post content */
+.post-content img,
+.post-content .preview-img img,
+.post-content figure img {
+  display: block;
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Put inline image links on their own line */
+.post-content p > a.img-link,
+.post-content li > p > a.img-link {
+  display: block;
+  margin: 0.75rem auto;
+}
